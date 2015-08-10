@@ -1,0 +1,2 @@
+module JsDataRails
+end
